@@ -1,3 +1,8 @@
 {
-  "your": "json config here"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bukacha88/repository.git"
 }
